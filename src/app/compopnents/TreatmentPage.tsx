@@ -28,7 +28,7 @@ export function TreatmentPage({
         className="w-full max-w-md rounded-2xl shadow-lg my-6"
       />
 
-      <p className="text-lg text-gray-600 text-center max-w-2xl">
+      <p className="text-lg text-white-600 text-center max-w-2xl">
         {description}
       </p>
     </div>

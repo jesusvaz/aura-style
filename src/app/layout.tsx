@@ -36,7 +36,7 @@ export default function RootLayout({
 
         {children}
 
-        <footer className="bg-gray-100 text-center p-4 text-sm text-gray-500">
+        <footer className="bg-black text-center p-4 text-sm text-white-500">
           © 2026 Aura · Todos los derechos reservados
         </footer>
       </body>
