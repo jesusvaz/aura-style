@@ -68,5 +68,11 @@ export const treatments = [
         title: "Manicure-Pedicure",
         image: "uñas.png",
         description:"Manicure, pedicure, esmaltado regular y gel, uñas acrílicas, diseño de uñas (nail art), retiro de esmalte, limpieza y cuidado de cutículas, exfoliación, hidratación y masajes de manos y pies."
+    },
+    {
+        slug: "Estilista",
+        title: "Estilista",
+        image: "cortes.png",
+        description:"Corte y peinado, coloración, mechas, balayage, alaciado, rizado, tratamientos capilares, hidratación profunda, diseño de imagen y asesoría de estilo personalizado."
     }
 ];
