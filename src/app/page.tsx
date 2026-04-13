@@ -18,7 +18,7 @@ export default function HomePage() {
         Porque Mereces Sentirte Bien
       </h2>
       <h3 className="flex items-center gap-2 text-lg">
-        Agenda una cita. Que esperas? Llamanos
+        Agenda una cita. Que esperas? Llamanos!!
         <LuPhone className="text-xl" />
         <span className="font-semibold">(650) 954-1379</span>
       </h3>
