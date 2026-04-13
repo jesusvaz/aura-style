@@ -65,7 +65,7 @@ export const treatments = [
     },
      {
         slug: "pest",
-        title: "Pesttañas",
+        title: "Pestañas",
         image: "pestañas.png",
         description: "Aplicación y diseño de pestañas para realzar la mirada, incluyendo extensiones clásicas, volumen y lifting, con técnicas profesionales que brindan mayor longitud, curvatura y definición, logrando un efecto natural o glamuroso según tu estilo.",
     },
