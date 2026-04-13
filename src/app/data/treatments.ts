@@ -6,13 +6,7 @@ export const treatments = [
         description:
             "Tratamientos faciales diseñados para limpiar, hidratar y revitalizar la piel, mejorando su apariencia y salud."
     },
-    // {
-    //     slug: "rejuvenecimiento",
-    //     title: "Rejuvenecimiento",
-    //     image: "rejuvenecimientom1.png",
-    //     description:
-    //         "Procedimientos enfocados en reducir signos de envejecimiento, estimulando la producción de colágeno y elastina."
-    // },
+
     {
         slug: "derma-pen",
         title: "Derma-Pen",
@@ -20,13 +14,7 @@ export const treatments = [
         description:
             "Técnica de microneedling que mejora la textura de la piel, atenúa cicatrices y líneas de expresión."
     },
-    // {
-    //     slug: "fibro blast",
-    //     title: "Fibro-Blast",
-    //     image: "fivbroblastm1.png",
-    //     description:
-    //         "Tratamiento no invasivo que ayuda a reafirmar la piel y mejorar su firmeza mediante estimulación celular."
-    // },
+
     {
         slug: "plasma-pen",
         title: "Plasma-Pen",
@@ -67,12 +55,18 @@ export const treatments = [
         slug: "Manicure0-Pedicure",
         title: "Manicure-Pedicure",
         image: "uñas.png",
-        description:"Manicure, pedicure, esmaltado regular y gel, uñas acrílicas, diseño de uñas (nail art), retiro de esmalte, limpieza y cuidado de cutículas, exfoliación, hidratación y masajes de manos y pies."
+        description: "Manicure, pedicure, esmaltado regular y gel, uñas acrílicas, diseño de uñas (nail art), retiro de esmalte, limpieza y cuidado de cutículas, exfoliación, hidratación y masajes de manos y pies."
     },
     {
         slug: "Estilista",
         title: "Estilista",
         image: "cortes.png",
-        description:"Corte y peinado, coloración, mechas, balayage, alaciado, rizado, tratamientos capilares, hidratación profunda, diseño de imagen y asesoría de estilo personalizado."
-    }
+        description: "Corte y peinado, coloración, mechas, balayage, alaciado, rizado, tratamientos capilares, hidratación profunda, diseño de imagen y asesoría de estilo personalizado."
+    },
+     {
+        slug: "pest",
+        title: "Pesttañas",
+        image: "pestañas.png",
+        description: "Aplicación y diseño de pestañas para realzar la mirada, incluyendo extensiones clásicas, volumen y lifting, con técnicas profesionales que brindan mayor longitud, curvatura y definición, logrando un efecto natural o glamuroso según tu estilo.",
+    },
 ];
