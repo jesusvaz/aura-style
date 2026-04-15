@@ -42,7 +42,7 @@ export const treatments = [
         title: "Ventosas",
         image: "vebtosa.png",
         description:
-            "Procedimiento estético que da volumen, definición e hidratación a los labios de manera natural."
+            "Masaje terapéutico con ventosas y ajustes."
     },
     {
         slug: "Barber",
