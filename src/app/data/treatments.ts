@@ -40,7 +40,7 @@ export const treatments = [
     {
         slug: "Ventosas",
         title: "Ventosas",
-        image: "ventosasm1.png",
+        image: "vebtosa.png",
         description:
             "Procedimiento estético que da volumen, definición e hidratación a los labios de manera natural."
     },
